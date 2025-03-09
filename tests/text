@@ -1,0 +1,26 @@
+🔹 Tipos de Pruebas a Implementar:
+Pruebas de Autenticación
+
+Login exitoso con credenciales correctas
+Login fallido con credenciales incorrectas
+Login con usuario bloqueado
+Validación de mensajes de error en el login
+Pruebas de Funcionalidad de la Tienda
+
+Agregar productos al carrito
+Eliminar productos del carrito
+Filtrar productos por precio o nombre
+Validar que los productos tengan precio y nombre visible
+Pruebas de Flujo de Compra
+
+Completar una compra exitosamente
+Intentar comprar sin llenar los datos requeridos
+Validar mensaje de confirmación después de una compra
+Pruebas de UI/UX (Interfaz de Usuario)
+
+Verificar la correcta visualización de elementos en diferentes tamaños de pantalla
+Comprobar que los botones y enlaces sean clickeables
+Pruebas de Rendimiento (Opcional con Playwright Trace Viewer)
+
+Medir tiempos de carga de la página principal y del carrito
+Evaluar el tiempo de respuesta después de agregar productos al carrito
